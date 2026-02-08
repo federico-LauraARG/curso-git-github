@@ -1,4 +1,4 @@
-# curso-git-github
+# Primer-repo-de-git/github
 Primer repo creado en github
 
 ## descripción
